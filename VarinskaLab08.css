@@ -1,0 +1,111 @@
+body{
+    background-image: url("../images/bg.jpg");
+    background-size: cover;
+}
+.title{
+    text-align: center;
+    font-size: 35px;
+}
+.one{
+    font-family: "Arial";
+    font-size: medium;
+    font-weight: bold;
+    font-style: italic;
+    color: Black;
+    text-align: center;
+    text-indent: 50px;
+    background: #ABD9C4;
+    margin: 1px 75px;
+    padding: 20px;
+    text-decoration: underline;
+    text-transform: capitalize;
+    border: 2px solid black;
+    text-shadow: 2px 2px 5px gray;
+}
+.two{
+    font-family: "Calibri", serif;
+    font-size: x-large;
+    font-weight: bolder;
+    color: White;
+    border: 2px solid black;
+    text-align: justify;
+    background: linear-gradient(to bottom, lightblue, darkblue);
+    margin: 1px 100px;
+    padding: 30px;
+    text-decoration: overline;
+    text-transform: uppercase;
+}
+.three{
+    font-family: "Verdana", serif;
+    font-size: large;
+    font-weight: lighter;
+    font-style: italic;
+    color: #b40159;
+    text-align: justify;
+    text-indent: 50px;
+    background: linear-gradient(to bottom, white, gray);
+    border: 2px solid black;
+    margin: 1px 50px;
+    padding: 25px;
+    text-decoration: line-through;
+    text-transform: lowercase;
+}
+.four{
+    font-family: "Times New Roman", serif;
+    font-size: 25px;
+    color: #133d70;
+    text-align: justify;
+    background-color: #ca72d3;
+    text-shadow: 1px 1px 5px #1a1414;
+    margin: 50px;
+    padding: 30px;
+    outline: 5px dashed #6837d0;
+    border-radius: 30px;
+}
+.five{
+    float: right;
+}
+.six{
+    margin: 10px 30px;
+    width: 300px;
+    height: 240px;
+    outline: 3px solid #00f5e0;
+    border-radius: 15px;
+}
+.seven{
+    background-image: url("image/bag.jpg");
+    background-size: cover;
+    font-style: italic;
+    font-size: 14pt;
+    text-indent: 2%;
+    text-align: justify;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 15px;
+}
+.eight{
+    text-align: center;
+    font-weight: bold;
+    font-size: 35pt;
+    color: darkred;
+    font-style: normal;
+}
+.nine{
+    float: right;
+    margin: 10px 30px;
+    width: 200px;
+}
+.eleven, a{
+    font-weight: bold;
+    color: #3d003d;
+    font-size: 20pt;
+    text-decoration: none;
+}
+
+.twelve li a:hover {
+    color: #f00;
+}
+.ten{
+    text-align: right;
+    font-size: large;
+}
